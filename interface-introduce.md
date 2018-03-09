@@ -20,14 +20,14 @@
 
 ![面介绍](images/ix-interface-introduce-3.jpg)
 
-> * 点击下看下效果。不在此演示。
+> * 标题栏 View 下， 点击下看下效果。不在此演示。
 
 ## 演示模式
 
 ![演示模式](images/ix-interface-introduce-4.jpg)
-> * 演示模式会方法代码
+> * 标题栏 View 下，演示模式会方法代码
 
 ## 专注模式
 
 ![专注模式](images/ix-interface-introduce-5.jpg)
-> * 专注模式会移除所有的工具栏、工具窗口和编辑标签等
+> * 标题栏 View 下，专注模式会移除所有的工具栏、工具窗口和编辑标签等

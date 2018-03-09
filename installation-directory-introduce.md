@@ -40,21 +40,21 @@
 ## 不同平台下文件配置说明
 
 ####  Windows
-> * `<User home>.WebIdeXX/config` 存放用户指定的设置。
-> *  `<User home>.WebIdeXX/system` 存放PHPStorm 缓存文件。
+> * `<User home>.PhpstormXX/config` 存放用户指定的设置。
+> *  `<User home>.PhpstromXX/system` 存放PHPStorm 缓存文件。
 > *  `<User home>` 在 WindowsXP 是指 `C:Documents and Settings <User name>`; 在Windows 7 以上是指 `C:Users <User name>`
 
 
 #### Linux
-> * `~/.WebIdeXX/config` 存放用户指定的设置。
-> * `~/.WebIdeXX/system` 存放PHPStorm 缓存文件。
+> * `~/.PhpstromXX/config` 存放用户指定的设置。
+> * `~/.PhpstromXX/system` 存放PHPStorm 缓存文件。
 
 
 #### Mac OS
-> * `~/Library/Application Support/WebIdeXX` 存放PHPStorm插件。
-> * `~/Library/Preferences/WebIdeXX` 存放PHPStorm配置文件。
-> * `~/Library/Caches/WebIdeXX` 存放PHPStorm缓存，历史记录等。
-> * `~/Library/Logs/WebIdeXX` 存放PHPStorm日志。
+> * `~/Library/Application Support/PhpstromXX` 存放PHPStorm插件。
+> * `~/Library/Preferences/PhpstromXX` 存放PHPStorm配置文件。
+> * `~/Library/Caches/PhpstromXX` 存放PHPStorm缓存，历史记录等。
+> * `~/Library/Logs/PhpstromXX` 存放PHPStorm日志。
 
 
 
