@@ -110,8 +110,7 @@ SVN 的这个窗口有的叫 `Changes`，有的叫 `Version Control`，具体是
 ## Git 常见问题
 
 - 更新的时候报：`Can't update: no tracked branch`
-  - 解决办法：打开 git-bash（路径：C:\Program Files\Git\git-bash.exe），切换到这个更新不下来的项目的根目录，然后输入：`git branch --set-upstream-to origin/master master`，回车之后重新回到 
-  -  进行更新，正常就可以了。
+  - 解决办法：当前目录输入：`git branch --set-upstream-to origin/master master`，回车之后重新进行更新，正常就可以了。
 - 输错密码后，弹出验证的登录框没有再出现：
 	- 解决办法如下图：选择 `Do not save, forget passwords after restart` 等你确定你的密码没错后再选择保存密码方案。
 	
@@ -156,19 +155,13 @@ SVN 的这个窗口有的叫 `Changes`，有的叫 `Version Control`，具体是
 - Mac：`brew install git-flow-avh`
 - Linux：`wget --no-check-certificate -q  https://raw.githubusercontent.com/petervanderdoes/gitflow-avh/develop/contrib/gitflow-installer.sh && sudo bash gitflow-installer.sh install stable; rm gitflow-installer.sh`
 - 更多版本：<https://github.com/petervanderdoes/gitflow-avh/wiki/Installation>
-- 在系统环境上支持之后，再安装 IntelliJ IDEA 对 Git Flow 支持的插件：<https://plugins.jetbrains.com/plugin/7315-git-flow-integration>
+- 在系统环境上支持之后，再安装 Phpstorm 对 Git Flow 支持的插件：<https://plugins.jetbrains.com/plugin/7315-git-flow-integration>
 
 ### Git Flow 基础命令资料
 
 - <https://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html>
 - <http://www.jianshu.com/p/9e4291078853>
 - <http://stormzhang.com/git/2014/01/29/git-flow/>
-
-### Git Flow Integration 插件的使用
-
-- 如果你已经理解了上面的理论，再看下面这些截图你能理解对应的是什么意思。
-
-![Git Flow Integration 插件的使用](images/xvi-h-git-flow-feature-1.png)
 
 
 
