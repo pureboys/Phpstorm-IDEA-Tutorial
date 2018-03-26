@@ -17,7 +17,5 @@
   - [文件代码模板](file-templates-introduce.md)
   - [前端代码模板：Emmet](emmet-introduce.md)
   - [特殊代码模板：Postfix Completion](postfix-completion-introduce.md)
-  - [Debug 技巧](debug-introduce.md)
   - [重构技巧](refactor-introduce.md)
   - [数据库管理工具](database-introduce.md)
-  - [远程调试介绍（Tomcat + Jetty）](remote-debugging.md)
