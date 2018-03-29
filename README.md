@@ -19,3 +19,4 @@
   - [特殊代码模板：Postfix Completion](postfix-completion-introduce.md)
   - [重构技巧](refactor-introduce.md)
   - [数据库管理工具](database-introduce.md)
+  - [远程文件的上传](upload-file.md)
