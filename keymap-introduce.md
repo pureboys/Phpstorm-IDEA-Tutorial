@@ -2,7 +2,7 @@
 
 ## 说明
 
-IntelliJ IDEA 的便捷操作性，快捷键的功劳占了一大半，对于各个快捷键组合请认真对待。IntelliJ IDEA 本身的设计思维是提倡键盘优先于鼠标的，所以各种快捷键组合层出不穷，对于快捷键设置也有各种支持，对于其他 IDE 的快捷键组合也有预设模板进行支持。
+Phpstorm 的便捷操作性，快捷键的功劳占了一大半，对于各个快捷键组合请认真对待。Phpstorm 本身的设计思维是提倡键盘优先于鼠标的，所以各种快捷键组合层出不穷，对于快捷键设置也有各种支持，对于其他 IDE 的快捷键组合也有预设模板进行支持。
 
 对于下面各个快捷键的使介绍描述也许用我个人语言翻译起来不够准确或是不全面，且在不同的文件类型上按出来的效果也可能结果不太一样,所以 **强烈建议** 你自己把各个快捷键都亲自操作下体会下各个快捷键的实际用法。
 
@@ -78,7 +78,7 @@ IntelliJ IDEA 的便捷操作性，快捷键的功劳占了一大半，对于各
 |<kbd>Alt</kbd> + <kbd>F7</kbd>|查找光标所在的方法 / 变量 / 类被调用的地方|
 |<kbd>Alt</kbd> + <kbd>F8</kbd>|在 Debug 的状态下，选中对象，弹出可输入计算表达式调试框，查看该输入内容的调试结果|
 |<kbd>Alt</kbd> + <kbd>Home</kbd>|定位 / 显示到当前文件的 `Navigation Bar` |
-|<kbd>Alt</kbd> + <kbd>Enter</kbd>|IntelliJ IDEA 根据光标所在问题，提供快速修复选择，光标放在的位置不同提示的结果也不同 `（必备）` |
+|<kbd>Alt</kbd> + <kbd>Enter</kbd>|Phpstorm 根据光标所在问题，提供快速修复选择，光标放在的位置不同提示的结果也不同 `（必备）` |
 |<kbd>Alt</kbd> + <kbd>Insert</kbd>|代码自动生成，如生成对象的 set / get 方法，构造函数，toString() 等 `（必备）` |
 |<kbd>Alt</kbd> + <kbd>左方向键</kbd>|切换当前已打开的窗口中的子视图，比如Debug窗口中有Output、Debugger等子视图，用此快捷键就可以在子视图中切换 `（必备）` |
 |<kbd>Alt</kbd> + <kbd>右方向键</kbd>|按切换当前已打开的窗口中的子视图，比如Debug窗口中有Output、Debugger等子视图，用此快捷键就可以在子视图中切换 `（必备）` |
@@ -123,7 +123,7 @@ IntelliJ IDEA 的便捷操作性，快捷键的功劳占了一大半，对于各
 |<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>F</kbd>|重构-快速提取成员变量|
 |<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>V</kbd>|重构-快速提取变量|
 |<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Y</kbd>|同步、刷新|
-|<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>S</kbd>|打开 IntelliJ IDEA 系统设置 `（必备）` |
+|<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>S</kbd>|打开 Phpstorm 系统设置 `（必备）` |
 |<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>F7</kbd>|显示使用的地方。寻找被该类或是变量被调用的地方，用弹出框的方式找出来|
 |<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>F11</kbd>|切换全屏模式|
 |<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Enter</kbd>|光标所在行上空出一行，光标定位到新行 `（必备）` |
@@ -234,7 +234,7 @@ IntelliJ IDEA 的便捷操作性，快捷键的功劳占了一大半，对于各
 > * 编辑器是支持一个操作命令同时设置多个快捷键组合，就如上图的就有第一快捷键和第二快捷键。
 
 ![修改快捷键](images/xxvii-a-keymap-setting-3.jpg)
-> - IntelliJ IDEA 支持两种方式来筛选我们要找的快捷键，一种是上图1所示的，通过输入快捷键描述内容；一种是上图标注 2 所示的，通过 按 指定快捷键快捷键，这里需要再次强调的是，这个输入框是自动监听你当前按下的按键，而不是用来输入的。
+> - Phpstorm 支持两种方式来筛选我们要找的快捷键，一种是上图1所示的，通过输入快捷键描述内容；一种是上图标注 2 所示的，通过 按 指定快捷键快捷键，这里需要再次强调的是，这个输入框是自动监听你当前按下的按键，而不是用来输入的。
 > - 上图标注 3 所示，初安装的使用的是 Default 的快捷键模板。可以根据喜好自己调整，保存
 
 
@@ -243,4 +243,4 @@ IntelliJ IDEA 的便捷操作性，快捷键的功劳占了一大半，对于各
 
 ![vim插件推荐](images/xxvii-b-ideavim-1.jpg)
 
-> * 如果你是一个 Vim 粉，IntelliJ IDEA 也为你准备了一个方案：如上图安装 IdeaVim 插件即可。
+> * 如果你是一个 Vim 粉，Phpstorm 也为你准备了一个方案：如上图安装 IdeaVim 插件即可。

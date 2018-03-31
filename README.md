@@ -20,3 +20,9 @@
   - [重构技巧](refactor-introduce.md)
   - [数据库管理工具](database-introduce.md)
   - [远程文件的上传](upload-file.md)
+- **高级设置介绍**
+  - [脚本debug](script-debug.md)
+  - [Web debug](web-debug.md)
+  - [代码格式](coder-format.md)
+  - [常用细节](often-use.md)
+
