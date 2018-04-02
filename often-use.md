@@ -46,6 +46,8 @@
 搜索项目：`command + shift + F`
 替换项目：`command + shift + R`
 选中多个当前的单词 ：`ctrl + G`
+快速查找方法： `command + alt + O`
+快速查找文件：`command + shift + O`
 
 ## PHPDOC 自动生成
 
@@ -130,3 +132,7 @@
  * @property signing_company_biz signing_company_biz
  */
 ```
+
+## 搜索任何文件
+![配置 搜索任何文件](images/xxxiv-often-use-a-30.jpg)
+> * 搜索任何东西都可以 双击shift 进行查找
