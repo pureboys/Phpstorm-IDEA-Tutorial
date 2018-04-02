@@ -38,7 +38,7 @@
 反撤销： `command + shift + Z`
 复制上一行 :`command + D`
 剪切当前行: `command + X`
-上下行交换: `command+shift+↑↓`
+上下行交换: `alt + shift + ↑↓`
 当前选中行注释: `command + /`
 多行注释： `command + shift + /`
 搜索当前文件 ：`command + F`
