@@ -23,7 +23,7 @@
 - **高级设置介绍**
   - [脚本debug](script-debug.md)
   - [Web debug](web-debug.md)
-  - [代码格式](code-format.md)
+  - [代码格式](coder-format.md)
   - [常用细节](often-use.md)
 - **插件介绍**
    - [插件基本介绍](plugins-settings.md)
