@@ -34,20 +34,20 @@
 > * 一般在对大文件进行修改的时候，有些修改内容在文件上面，有些内容在文件下面，如果来回操作可能效率会很低，用此方法就可以好很多。
 
 ## 常用的快捷键
-撤销 ： `command + Z`
-反撤销： `command + shift + Z`
-复制上一行 :`command + D`
-剪切当前行: `command + X`
-上下行交换: `alt + shift + ↑↓`
-当前选中行注释: `command + /`
-多行注释： `command + shift + /`
-搜索当前文件 ：`command + F`
-替换当前文件：`command + R`
-搜索项目：`command + shift + F`
-替换项目：`command + shift + R`
-选中多个当前的单词 ：`ctrl + G`
-快速查找方法： `command + alt + O`
-快速查找文件：`command + shift + O`
+> * 撤销 ： `command + Z` 
+> * 反撤销： `command + shift + Z`  
+> * 复制上一行 :`command + D`  
+> * 剪切当前行: `command + X`  
+> * 上下行交换: `alt + shift + ↑↓`  
+> * 当前选中行注释: `command + /`  
+> * 多行注释： `command + shift + /`  
+> * 搜索当前文件 ：`command + F` 
+> * 替换当前文件：`command + R`  
+> * 搜索项目：`command + shift + F` 
+> * 替换项目：`command + shift + R` 
+> * 选中多个当前的单词 ：`ctrl + G` 
+> * 快速查找方法： `command + alt + O` 
+> * 快速查找文件：`command + shift + O` 
 
 ## PHPDOC 自动生成
 

@@ -13,7 +13,6 @@
 ## 上传文件设置
 
 ![选择上传文件配置3](images/xxx-a-file-upload-3.jpg)
-![选择上传文件配置4](images/xxx-a-file-upload-4.jpg)
 > * 如上图标注所示，填写好需要上传的SFTP/FTP的账号密码，Root path 表示在服务器上某个文件夹设置为根目录，选择好后会展示该目录下的所有文件。
 
 ![选择上传文件配置5](images/xxx-a-file-upload-5.jpg)
