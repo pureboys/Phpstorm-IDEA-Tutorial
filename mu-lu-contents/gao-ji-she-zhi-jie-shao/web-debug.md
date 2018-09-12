@@ -17,6 +17,17 @@
 >     xdebug.remote_connect_back=1    # 忽略 remote_host 配置, 不关注主机配置, 开发者使用最舒服
 >     xdebug.remote_port=9050         # 监听端口
 >   ```
+> * docker 配置 xdebug
+>   ```text
+>      [xdebug] 
+>     zend_extension=/usr/local/lib/php/extensions/no-debug-non-zts-20160303/xdebug.so
+>     xdebug.remote_enable=1
+>     xdebug.remote_connect_back=0
+>     xdebug.remote_handler=dbgp
+>     xdebug.remote_port=9050
+>     xdebug.remote_host=docker.for.mac.localhost
+>     xdebug.idekey = PHPSTORM
+>   ```
 >
 > * 设置 phpstorm 配置并开启监听
 >
